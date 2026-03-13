@@ -132,4 +132,4 @@ button{cursor:pointer}
 /* Factor grid for matchup */
 .factor-row{display:grid;grid-template-columns:1fr 80px 1fr;gap:6px;align-items:center;padding:7px 0;border-bottom:1px solid #151f2e}
 .factor-row:last-child{border-bottom:none}
-</style>
+
