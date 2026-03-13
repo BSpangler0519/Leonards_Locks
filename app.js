@@ -60,7 +60,7 @@ function toggleTheme(){
   localStorage.setItem('theme',currentTheme);
   applyTheme();
 }
-var SHOW_SPLASH = true;
+var SHOW_SPLASH = false;
 function dismissSplash(){
   var splash=document.getElementById('splash-screen');
   if(!splash||splash.style.display==='none') return;
